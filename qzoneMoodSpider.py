@@ -2,7 +2,9 @@
 """
 Created on Wed Feb 13 13:55:57 2019
 
-@author: xy
+@author: YangShiyuan, all rights reserved.
+Redistribution for academic purpose only.
+If you find this code useful, please cite our paper Yang et al. Image inpainting based on multi-patch with adaptive size. Apl. Sci. 2020.
 """
 
 #以下为需要使用的库
